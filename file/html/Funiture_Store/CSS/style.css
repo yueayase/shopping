@@ -1,0 +1,97 @@
+*{
+    box-sizing : border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+.category_des{
+    width: 75%;
+    height: 300px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 28px;
+}
+
+
+.fur{
+    width: 100%;
+    height: 1200px;
+    background-color: azure;
+}
+
+.fur .item{
+    width : 25%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.fur .item .image{
+    width: 100%;
+    height: 50%;
+}
+
+.fur .item .info{
+    width: 100%;
+    height: 50%
+}
+
+.fur .item .info .title{
+    width: 100%;
+    height: 25%;
+    display: inline-block;
+    vertical-align: top;
+    font-size : 32px;
+}
+
+.fur .item .info .des{
+    width: 100%;
+    height: 40%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 18px;
+}
+
+.fur .item .info .price{
+    width: 100%;
+    height: 10%; /* 15% button disappear */
+    display: inline-block;
+    vertical-align: top;
+    font-size: 24px;
+}
+
+.fur .item .info .btn{
+    width: 50%;
+    height: 20%;
+    display: block;
+    margin: 0 auto;
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 10px;
+    box-shadow: 0 8px 40px 0 rgba(0, 0, 0, 0.5);
+    
+    background: rgb(85,63,251);
+    background: -moz-radial-gradient(circle, rgba(85,63,251,0.7988445378151261) 0%, rgba(70,153,252,0.5943627450980392) 100%);
+    background: -webkit-radial-gradient(circle, rgba(85,63,251,0.7988445378151261) 0%, rgba(70,153,252,0.5943627450980392) 100%);
+    background: radial-gradient(circle, rgba(85,63,251,0.7988445378151261) 0%, rgba(70,153,252,0.5943627450980392) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#553ffb",endColorstr="#4699fc",GradientType=1);
+}
+
+.fur .item .info .btn:hover{
+    transform: scale(1.5, 1.5);
+    transition: all 0.5s;
+}

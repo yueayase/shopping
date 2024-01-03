@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github Navigation Bar</title>
+    <!-- 參考: 用 Express 架一個簡單的伺服器 拉爾夫的技術隨筆-->
+    <!-- 根據 Express 官方文件，在提供靜態檔案時，應該把所有靜態檔案都放到名為 public 的資料夾中，而 public 資料夾跟 HTML 檔案同層： -->
+    <link rel="stylesheet" href="/static/CSS/navbar_css/normalize.css">
+    <link rel="stylesheet" href="/static/CSS/navbar_css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="navbar">
+            <a href="#!" class="logo"></a>
+            <ul class="nav">
+                <li class="nav_item">
+                    <a href="#!" class="nav_link">Product</a>
+                </li>
+                <li class="nav_item">
+                    <a href="#!" class="nav_link">Solutions</a>
+                </li>
+                <li class="nav_item">
+                    <a href="#!" class="nav_link">Open Source</a>
+                </li>
+                <li class="nav_item">
+                    <a href="#!" class="nav_link">Pricing</a>
+                </li>
+            </ul>
+        </div>
+        <div class="user_bar">
+            <ul class="user">
+                <li class="search">
+                    <input type="text" value="Search or jump to" />
+                </li>
+                <li class="btn">
+                    <a href="#!" class="sign_in">Sign in</a>
+                </li>
+                <li class="btn">
+                    <a href="#!" class="sign_up">Sign up</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+</body>
+</html>

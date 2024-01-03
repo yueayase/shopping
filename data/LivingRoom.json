@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "title": "Elmwood Power Recliner",
+        "content": [
+            "The electric power lift recliner chair is multifunctional, providing a place of relaxation for the elderly and office workers.", 
+            "Its gorgeous and colorful design adds color to the home and allows for a home environment that appears forward-thinking and modern."
+        ],
+        "price": 7000,
+        "publish": true,
+        "url": "LivingRoom/0",
+        "image-name": "elmwood-power-recliner.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Faux Leather Massage Chair",
+        "content": [
+            "This chaise longue combines style and comfort. It's made of high quality PU leather, and it has a sturdy wooden frame structure.",
+            "Its adjustable backrest and footrest provide a comfortable sitting experience when you're working or resting for long periods of time.",
+            "The massage function with wide armrests and foot pads brings an added level of comfort."
+        ],
+        "price": 7000,
+        "publish": true,
+        "url": "LivingRoom/1",
+        "image-name": "faux-leather-massage-chair-9.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kanajah Power Lift Recliner Lift Chairs Recliners for Elderly, Heat and Massage by Remote Control",
+        "content": [
+            "This power recliner's electric lift feature, along with its PU leather massage, makes it easier than ever to get in and out of the chair when you're tired.",
+            "It also features cup holders and a USB connection for charging your phone or other accessories. The dark brown port can be accessed with a remote control."
+        ],
+        "price": 12000,
+        "publish": true,
+        "url":"LivingRoom/2",
+        "image-name": "kanajah-power-lift-recliner-lift-chairs-recliners-for-elderly-heat-and-massage-by-remote-control.jpg"
+    },
+    {
+        "id":3,
+        "title": "Navicky Vegan Leather Power Recliner",
+        "content": [
+            "This recliner is great for seniors. It allows them to stand up and can be adjusted into a reclining position, enabling them to take naps. The remote control makes it convenient for them to change positions."
+        ],
+        "price": 9000,
+        "publish": true,
+        "url": "LivingRoom/3",
+        "image-name": "navicky-vegan-leather-power-recliner.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Power Reclining Heated Massage Chair",
+        "content": [
+            "A recliner chair will provide your loved one with the relief from a long day that they may need. If getting up and down from a sofa or chair is not as simple as it used to be for your loved one, ",
+            "a recliner chair may be the right move as they are relatively inexpensive for their benefits. Additionally, massage and heating functions will bring pleasure to your life."
+        ],
+        "price": 11000,
+        "publish": true,
+        "url": "LivingRoom/4",
+        "image-name": "power-reclining-heated-massage-chair-7.jpg"
+    }
+]

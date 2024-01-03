@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "title": "28 Kase Chess Backgammon Table",
+        "content": [
+            "Fans of decorative and ornate furniture pieces will adore this chess table, with its turned pedestal base and octagonal tabletop design.",
+            "The table has a built-in drawer for spare games pieces, and the elegant, black finish brings a dash of class and refinement to any living room.",
+            "The manufactured wood construction is robust and heat-resistant."
+        ],
+        "price": 5000,
+        "publish": true,
+        "url": "GameTable/0",
+        "image-name": "28-kase-chess-backgammon-table.jpg"
+    },
+    {
+        "id": 1,
+        "title": "36 Mcnally Chess Backgammon Table",
+        "content": [
+            "This classy and multifunctional chess table is ideal for game enthusiasts and family game nights. The removable top function with four cup holders means",
+            "this model can double up as a dining table when you have guests. This unit’s striking tapered legs ensure that it serves as a show-stopping centerpiece to",
+            "any living space, while the maple and poplar wood construction is sturdy and long-lasting."
+        ],
+        "price": 8000,
+        "publish": true,
+        "url": "GameTable/1",
+        "image-name": "36-mcnally-chess-backgammon-table.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Acme Furniture 28 Bishop Chess Table Reviews Wayfair",
+        "content": [
+            "The 28\" Chess & Backgammon Table is fully equipped for head-to-head chess, checkers, and backgammon competition. These chairs set traditionally styled, are",
+            "crafted from manufactured wood and solid hardwood. The recessed chess and checkers playfield is accessed by removing the top and backgammon play surface. ",
+            "The fortress includes all accessories needed to play all 3 games. The two extremely comfortable, soft padded game chairs add the finishing touches to this multi-functional table set.",
+            "Add this classic combination game table to your living room, study, or den today."
+        ],
+        "price": 6000,
+        "publish": true,
+        "url": "GameTable/2",
+        "image-name": "acme-furniture-28-bishop-chess-table-reviews-wayfair.jpg" 
+    },
+    {
+        "id": 3,
+        "title": "Lamodahome Chess Bckgammon Set",
+        "content": [
+            "For homes with a farmhouse-style interior, this chess table, with its distressed wooden construction, makes the perfect statement piece for your sitting room or den. The set comes with six chess pieces, ",
+            "and an integrated shelf which you can use to store various board games and coffee table books. This unit has a mark and scratch-resistant finish, making it a breeze to wipe down and clean."
+        ],
+        "price": 3500,
+        "publish": true,
+        "url": "GameTable/3",
+        "image-name": "lamodahome-chess-backgammon-set-star-elite-mother-of-pearl-dark-unscratchable-polished-wooden-legged-with-beautiful-motives-for-adults-and-kids-family-night-f.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Trademark Global Chess Games Deluxe Chess Backgammon",
+        "content": [
+            "The Trademark Games Chess & Games Deluxe Chess and Backgammon Table is a great addition to any home or gaming area. It includes the chess pieces that make it perfect for your home gaming zone.",
+            "This backgammon and chess table features a veneered construction that enhances its strength. It has storage under it that is ideal for storing chess pieces when they are not being used.", 
+            "This chess and backgammon table provides the versatility of the gaming table as well as the functionality of a beautiful end table. It has a dark cherry finish that blends well with most of the decors.", 
+            "This Chess & Games Deluxe Chess and Backgammon Table from Trademark Games is a nice addition to any home."
+        ],
+        "price": 6500,
+        "publish": true,
+        "url": "GameTable/4",
+        "image-name": "trademark-global-chess-games-deluxe-chess-backgammon.jpg"
+    }
+]

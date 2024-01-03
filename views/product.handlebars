@@ -1,0 +1,8 @@
+{{#if product.publish}}
+    <h2>{{product.title}}</h2>
+    <img src="../static/image/{{category}}/{{product.image-name}}" alt="Unknown">
+    <h3>${{product.price}}</h3>
+    <p>{{product.content}}</p>
+    <button>Buy</button>
+    <h3><a href="{{backUrl}}">←Go back</a></h3>
+{{/if}}

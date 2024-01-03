@@ -1,0 +1,13 @@
+<h3><a href="{{backUrl}}">←Go back</a></h3>
+{{#each products}}
+    {{#if this.publish}}
+        {{#with this}}
+            <h2>{{title}}</h2>
+            <a href={{url}}>
+                <img src="../static/image/{{category}}/{{image-name}}" alt="Unknown">
+            </a>
+            <h3>${{price}}</h3>
+            <p>{{content}}</p>
+        {{/with}}
+    {{/if}}
+{{/each}}

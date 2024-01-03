@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "title": "Cozy Seating Area for Inviting Space",
+        "content": [
+            "Becca Interiors incorporates two-tone black and white cabinetry in a modern loft kitchen, extending to the loft ceiling ",
+            "and accessed by a built-in library ladder. Include a cozy seating area or reading nook to make the space more inviting and functional."
+        ],
+        "price": 50000,
+        "publish": true,
+        "url": "Kitchen/0",
+        "image-name": "marble-kitchen.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Elevate Glamour with Plush Seating",
+        "content": [
+            "Leanne Ford Interiors' kitchen with black and white marble exudes glamour, complemented by contemporary lighting, seating, and warm dark hardwood flooring.",
+            "Introduce a luxurious velvet or plush upholstered seating option to further elevate the glamorous atmosphere."
+        ],
+        "price": 60000,
+        "publish": true,
+        "url": "Kitchen/1",
+        "image-name": "mix-of-textures-kitchen.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Add Depth with Textures and Materials",
+        "content": [
+            "Woven cognac leather bar stools bring warmth to Chango & Co.'s modern black-and-white kitchen. Introduce a mix of textures and materials, such as glass, metal, or stone, ",
+            "through decorative elements or kitchen accessories to add depth and interest."
+        ],
+        "price": 70000,
+        "publish": true,
+        "url": "Kitchen/2",
+        "image-name": "modern-family-kitchen.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Incorporate Bold Accents for Character",
+        "content": [
+            "Michelle Berwick Design uses subtle black accents in this modern family kitchen, such as black framed windows, metal bar stool bases, plumbing fixtures, door pulls, and pendant lights.",
+            "Shades of white and off-white with pale hardwood flooring complete the space. Incorporate a few bold accent pieces, like colorful dishware or a statement vase, to add character."
+        ],
+        "price": 65000,
+        "publish": true,
+        "url": "Kitchen/3",
+        "image-name": "open-plan-black-white-kitchen-cognac-leather-bar-stools-tiled-backsplash-black-island-range-hood.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Soften the Look with a Patterned Rug",
+        "content": [
+            "Cognac leather bar stools add a cozy feel to this open-plan black-and-white kitchen by Michelle Berwick Design. Black grout on the tiled backsplash wall pairs well with the black island, ",
+            "range hood, cabinet pulls, and pendant lights. Introduce a patterned runner or area rug to soften the look and add texture."
+        ],
+        "price": 80000,
+        "publish": true,
+        "url": "Kitchen/4",
+        "image-name": "warm-metal-kitchen.jpg"
+    }
+]
